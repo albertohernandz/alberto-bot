@@ -8,7 +8,9 @@
 
 
 ✅Install Dependencies:
+```
 npm install
+```
 
 ✅Initialize:
 npm run index
