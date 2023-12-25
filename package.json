@@ -1,0 +1,17 @@
+{
+  "name": "alberto-bot",
+  "version": "1.0.0",
+  "description": "bot de sticker para whatsapp creado con whatsapp-web.js y nodejs",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alberto Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.2.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
