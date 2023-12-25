@@ -1,6 +1,8 @@
-### INSTALLATION
+###INSTALLATION
 ✅Clone Repository:
-
+```
+https://github.com/albertohernandz/alberto-bot.git
+```
 
 ✅Install Dependencies:
 ```
@@ -11,4 +13,4 @@ npm install
 ```
 npm run index
 ```
-## === Scan the QR code and log in to the bot! ===
+##=== Scan the QR code and log in to the bot! ===
