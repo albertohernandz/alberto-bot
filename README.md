@@ -1,8 +1,7 @@
-🔷Name: Alberto Bot
-<br>
-#🔷Author: Alberto Hernandez
-#🔷Github: https://github.com/albertohernandz/alberto-bot.git
-#🔷Info: This project is created with whatsapp-web.js and nodejs
+#Name: Alberto Bot
+#Author: Alberto Hernandez
+#Github: https://github.com/albertohernandz/alberto-bot.git
+#Info: This project is created with whatsapp-web.js and nodejs
 
 ### INSTALLATION
 ✅Clone Repository:
