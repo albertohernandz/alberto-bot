@@ -3,7 +3,7 @@
 🔷Github: https://github.com/albertohernandz/alberto-bot.git
 🔷Info: This project is created with whatsapp-web.js and nodejs
 
-INSTALLATION
+### INSTALLATION
 ✅Clone Repository:
 
 
