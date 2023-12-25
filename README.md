@@ -7,7 +7,7 @@ INSTALLATION
 ✅Clone Repository:
 
 
-✅Install Dependencies: ,  ,
+✅Install Dependencies:
 npm install
 
 ✅Initialize:
