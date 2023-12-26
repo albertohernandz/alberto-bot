@@ -1,7 +1,7 @@
 # 💫WELCOME ALBERTO BOT REPOSITORY
 ![bot_logo](https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1)
 
-Alberto Bot is a sticker bot built in the library of [whatsapp-web.js](https://wwebjs.dev/ "whatsapp-web.js")
+#### Alberto Bot is a sticker bot built in the library of [whatsapp-web.js](https://wwebjs.dev/ "whatsapp-web.js")
 
 ## Requirements:
 - Install NodeJs
