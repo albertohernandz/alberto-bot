@@ -1,7 +1,7 @@
 # 💫WELCOME ALBERTO BOT REPOSITORY
 ![bot_logo](https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1)
 
-###Alberto Bot is a sticker bot built in the library of [whatsapp-web.js](https://wwebjs.dev/ "whatsapp-web.js") and the [nodejs](https://nodejs.org/en "nodejs") environment
+Alberto Bot is a sticker bot built in the library of [whatsapp-web.js](https://wwebjs.dev/ "whatsapp-web.js") and the [nodejs](https://nodejs.org/en "nodejs") environment
 
 ## Requirements:
 - Install NodeJs
@@ -14,17 +14,17 @@
 - Open a command line or terminal and run the following commands:
 
 - node version
-```
+```sh
 node --version
 ```
 
 - npm version
-```
+```sh
 npm --version
 ```
 
 - git version
-```
+```sh
 git --version
 ```
 
@@ -70,7 +70,7 @@ npm run index
 ![bot_main_command](https://github.com/albertohernandz/alberto-bot/assets/154773528/e9e3f933-6c3f-4edd-8ad7-38dab720918f)
 To create a sticker with the bot, select an image, then write the command <b>!sticker</b> on the selected image and send
 
-# 🚦Warning
+# 🚦WARNING
 #### Does not run on mobile devices ❌
 #### Only runs on computers and laptops ✅
 <br>
