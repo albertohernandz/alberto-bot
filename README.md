@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 <h3>ALBERTO BOT | STICKER BOT</h3>
-<h1>A simple bot to create stickers from images!</h1>
+  A simple bot to create stickers from images!
 
 ## Requirements:
 - Install NodeJs
