@@ -11,7 +11,7 @@ Alberto Bot is a sticker bot built in the library of [whatsapp-web.js](https://w
 [Download](https://git-scm.com/ "Download")
 
 ## Verification:
-- Open a command line or terminal and run the following commands:
+Open a command line or terminal and run the following commands:
 
 - node version
 ```sh
@@ -28,10 +28,10 @@ npm --version
 git --version
 ```
 
-- You can also use -v after the command to check the version
+You can also use -v after the command to check the version
 
 # ⭐INSTALLATION
-- Open a command line or terminal and run the following commands:
+Open a command line or terminal and run the following commands:
 
 - Clone repository
 ```sh
@@ -60,10 +60,10 @@ npm run index
 
 ## Start the connection!
 
-- Bot launch banner when running <b>npm run index</b> command
+Bot launch banner when running <b>npm run index</b> command
 ![bot_home_banner](https://github.com/albertohernandz/alberto-bot/assets/154773528/ec6dadef-38b5-4546-b75a-96dde519de76)
 
-- Generated QR code. Scan the code and log in to the bot
+Generated QR code. Scan the code and log in to the bot
 ![generated_qr_code](https://github.com/albertohernandz/alberto-bot/assets/154773528/ba23e7ff-152f-42a8-9ec7-ff7953be18a0)
 
 ## Create sticker
