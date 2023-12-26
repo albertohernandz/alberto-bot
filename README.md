@@ -68,6 +68,7 @@ npm run index
 
 ## Create sticker
 ![bot_main_command](https://github.com/albertohernandz/alberto-bot/assets/154773528/e9e3f933-6c3f-4edd-8ad7-38dab720918f)
+
 To create a sticker with the bot, select an image, then write the command <b>!sticker</b> on the selected image and send
 
 # 🚦WARNING
