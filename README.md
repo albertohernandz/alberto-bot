@@ -1,5 +1,6 @@
 # 💫WELCOME ALBERTO BOT REPOSITORY
 ![bot_logo](https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1)
+
 A simple bot to create stickers from images!
 
 ## Requirements:
