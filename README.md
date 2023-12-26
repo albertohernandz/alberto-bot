@@ -1,11 +1,11 @@
 # 💫WELCOME ALBERTO BOT REPOSITORY
 <p align="center">
-<img style="width: 150px;" src="https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1"/>
+<img style="width: 300px;" src="https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1"/>
 </p>
 <br>
 <div align="center">
-  <h3>ALBERTO BOT</h3>
-A simple bot to create stickers from images!
+<h3>ALBERTO BOT | STICKER BOT</h3>
+<h1>A simple bot to create stickers from images!</h1>
 
 ## Requirements:
 - Install NodeJs
