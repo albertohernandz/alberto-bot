@@ -1,5 +1,5 @@
 # 💫WELCOME ALBERTO BOT REPOSITORY
-<img align="center" style="width: 300px;" src="https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1"/>
+<img align="center" style="width: 350px;" src="https://github.com/albertohernandz/alberto-bot/assets/154773528/3fe1f5f4-8ddb-4f1c-bda6-cbd3188ccda1"/>
 <br>
 A simple bot to create stickers from images!
 
